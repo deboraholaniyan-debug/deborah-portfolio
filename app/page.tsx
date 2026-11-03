@@ -673,7 +673,7 @@ const filteredPublications = publications.filter((publication) => {
 
       <footer className="site-footer">
         <a className="brand" href="#">DO<span>.</span></a>
-        <p>© {new Date().getFullYear()} Dr Deborah Olaniyan. All rights reserved.</p>
+        <p>© 2026 Dr Deborah Olaniyan. All rights reserved.</p>
         <span>Designed for research. Built for impact.</span>
       </footer>
     </main>
