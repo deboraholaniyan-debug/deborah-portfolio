@@ -177,7 +177,7 @@ const filteredPublications = publications.filter((publication) => {
         <div className="hero-content">
           <div className="availability">
             <span className="status-dot" />
-            POSTDOCTORAL FELLOW · ARTIFICIAL INTELLIGENCE
+            ARTIFICIAL INTELLIGENCE · RESEARCH & ENGINEERING
           </div>
 
           <p className="eyebrow">
@@ -193,7 +193,7 @@ const filteredPublications = publications.filter((publication) => {
           <h2>
             AI Researcher & Academic
             <br />
-            <span>Postdoctoral Fellow</span>
+            <span>Explainable AI · Multimodal Intelligence</span>
           </h2>
 
           <p className="hero-description">
@@ -299,7 +299,7 @@ const filteredPublications = publications.filter((publication) => {
           <div className="about-text">
              <p className="about-lead">
                 I am Dr Deborah Olaniyan, an Artificial Intelligence researcher,
-                academic and Postdoctoral Fellow at the University of the Free
+                academic affiliated with the University of the Free
                 State, South Africa. I hold a PhD in Computer Science, with
                 research expertise spanning Explainable AI, Computer Vision,
                 Multimodal Learning, Educational AI and Trustworthy Machine Learning.
