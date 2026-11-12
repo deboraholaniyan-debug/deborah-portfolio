@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr Deborah Olaniyan | AI/ML Engineer & Applied AI Researcher
 
-## Getting Started
+Welcome to my professional portfolio repository.
 
-First, run the development server:
+I am an Artificial Intelligence researcher and engineer with a PhD in Computer Science, currently working as a Postdoctoral Fellow at the University of the Free State, South Africa.
+
+My work focuses on developing intelligent, explainable and trustworthy AI systems, translating research ideas into practical applications.
+
+## Research and Technical Interests
+
+- Applied Machine Learning and Deep Learning
+- Explainable and Trustworthy Artificial Intelligence
+- Multimodal AI and Computer Vision
+- Generative AI, Large Language Models and RAG
+- Educational AI and Learning Analytics
+- Healthcare AI and Intelligent Decision Support
+
+## Technical Skills
+
+**Programming:** Python, Java, JavaScript, C++
+
+**AI/ML:** PyTorch, TensorFlow, Machine Learning, Deep Learning
+
+**Research:** Experimental Design, Model Evaluation, Explainable AI, Scientific Writing
+
+## Portfolio Contents
+
+This portfolio is being developed to showcase:
+
+- Selected AI/ML engineering projects
+- Applied research implementations
+- Research publications and scholarly contributions
+- Software engineering projects
+- Technical demonstrations and case studies
+
+## Professional Links
+
+- **LinkedIn:** https://linkedin.com/in/deborah-olaniyan-fatinikun
+- **Google Scholar:** https://scholar.google.com/citations?user=uibdwl4AAAAJ
+- **ORCID:** https://orcid.org/0000-0002-7940-060X
+
+## Technology
+
+This website is built with Next.js and is being developed as a responsive professional portfolio.
+
+## Local Development
+
+Clone the repository:
 
 ```bash
+git clone https://github.com/deboraholaniyan-debug/deborah-portfolio.git
+cd deborah-portfolio
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open http://localhost:3000 in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Building intelligent systems through research, engineering and responsible AI.*
